@@ -480,5 +480,8 @@ nav .fa-solid{
     .copyright{
         font-size: 5px;
     }
+     .row{
+        flex-wrap: wrap;
+    }
 }
 
