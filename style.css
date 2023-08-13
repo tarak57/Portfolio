@@ -104,7 +104,7 @@ nav ul li a::after{
 {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap ;
+/*     flex-wrap: wrap ; */
 }
 .abt-col1{
     padding-top: 137px;
